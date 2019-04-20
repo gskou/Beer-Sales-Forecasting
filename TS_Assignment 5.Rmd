@@ -1,5 +1,5 @@
 ---
-title: "TS_Assignment 5"
+title: "Beer Sales - Forecasting "
 author: "Georgios Skouras"
 date: "5/16/2017"
 output:
@@ -8,7 +8,7 @@ output:
 ---
 
 
-#Assignment 5 - ARIMA Beer Sales
+#Beer Sales - Forecasting 
 
 Load data from TSA package (the package is written by authors Jonathan Cryer and Kung-Sik Chan).
 
